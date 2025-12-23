@@ -1,16 +1,127 @@
 ## Hi there 👋
+# I am Farnaz Jamilpanah
 
-<!--
-**Fari-panah/Fari-panah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student | Junior Full-Stack Developer | Java **
 
-Here are some ideas to get you started:
+📍 Finland  
+📧 Email: panahfari81@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+🔗 GitHub: https://github.com/Fari-panah 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+I am a motivated software development student with experience in Java, web development, and database systems.  
+I enjoy learning new technologies, building practical projects, and improving my skills as a developer.
+
+Currently, I am looking for **internship / trainee opportunities** to gain real-world experience.
+
+---
+
+## 🛠 Skills & Technologies
+
+### Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+</p>
+
+### Desktop & Testing
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" height="40" alt="JavaFX"/>
+  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="JUnit"/>
+</p>
+
+### Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="Visual Studio Code"/>
+</p>
+
+
+---
+
+## 📂 Projects
+Selected academic and personal projects.
+### 🔹 Study Planner Application (Student Team Project)
+- JavaFX desktop application developed using MVC architecture
+- Student study planning system for managing tasks and progress
+- UI/UX design with Figma
+- Trello used for task management, sprint planning, and team coordination
+- MariaDB used for persistent data storage and database design
+- Internationalization (localization) support for multiple languages
+- CI/CD pipeline implemented using Jenkins
+- Docker used to containerize the application and database
+- SonarQube used for static code analysis and code quality checks
+- Version control and team collaboration using GitHub
+- 🔗 Repo: https://github.com/Fari-panah/SEP01_Project.git
+
+### 🔹 Bakery Web Application (Student Team Project)
+- Full-stack web app using React, Node.js, Express, MongoDB
+- REST API with CRUD operations
+- Frontend developed with JavaScript and React components
+- RESTful APIs tested and validated using Postman
+- GitHub used for version control
+- 🔗 Repo: https://github.com/faripanah/FMF-Bakery.git
+
+### 🔹Flower Shop Website (Frontend Project)
+- Static website built using HTML & CSS
+- Product listing section for flowers with images, names, and prices
+- Navigation bar and page sections (home, products, contact/about)
+- CSS used for layout, styling, typography, and color themes
+- 🔗 Repo: https://github.com/Fari-panah/flowerShop.git
+---
+
+## 🎓 Education
+
+**Metropolia University of Applied Sciences**  
+Bachelor’s Degree in Software Engineering *(Student)*  
+Finland  
+(2024 – Present)
+
+**Keuda Vocational College**  
+Finnish Vocational Education and Training  
+Finland  
+(Graduated 2024)
+
+## 🎓 Courses
+
+**University of Helsinki – MOOC.fi**  
+Full Stack Open *(Self-study)*  
+- React, Node.js, Express, REST APIs
+- Studying in free time
+- 🔗 Repo: https://github.com/Fari-panah/modern-fullstack.git 
+  
+---
+
+## 📄 CV
+
+📥 **Download my CV (PDF):**  
+[Click here](./CV_Farnaz_Jamilpanah.pdf)
+
+---
+
+## 📬 Contact
+
+Feel free to contact me via email or LinkedIn.  
+I am open to internship, trainee, and junior developer opportunities.
+
