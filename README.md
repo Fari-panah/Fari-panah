@@ -5,7 +5,7 @@
 
 📍 Finland  
 📧 Email: panahfari81@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/yourprofile  
+🔗 LinkedIn: www.linkedin.com/in/farnaz-jamilpanah  
 🔗 GitHub: https://github.com/Fari-panah 
 
 ---
@@ -27,6 +27,7 @@ Currently, I am looking for **internship / trainee opportunities** to gain real-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
 </p>
 
 ### Backend
