@@ -61,7 +61,7 @@ Currently, I am looking for **internship / trainee opportunities** to gain real-
 ---
 
 ## 📂 Projects
-Selected academic and personal projects.
+Selected academic and personal projects:
 ### 🔹 Study Planner Application (Student Team Project)
 - JavaFX desktop application developed using MVC architecture
 - Student study planning system for managing tasks and progress
@@ -98,7 +98,8 @@ Bachelor’s Degree in Software Engineering *(Student)*
 Finland  
 (2024 – Present)
 
-**Keuda Vocational College**  
+**Keuda Vocational College** 
+Basic Qualification in Information and Communication Technology
 Finnish Vocational Education and Training  
 Finland  
 (Graduated 2024)
@@ -116,7 +117,8 @@ Full Stack Open *(Self-study)*
 ## 📄 CV
 
 📥 **Download my CV (PDF):**  
-[Click here](./CV_Farnaz_Jamilpanah.pdf)
+English CV:[English-CV Resume.pdf](https://github.com/user-attachments/files/24319509/English-CV.Resume.pdf)
+Finnish CV:[Finnish- CV Resume.pdf](https://github.com/user-attachments/files/24319513/Finnish-.CV.Resume.pdf)
 
 ---
 
