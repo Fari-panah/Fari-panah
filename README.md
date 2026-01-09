@@ -76,13 +76,13 @@ Selected academic and personal projects:
 - Version control and team collaboration using GitHub
 - 🔗 Repo: https://github.com/Fari-panah/SEP01_Project.git
 
-### 🔹 Bakery Web Application (Student Team Project)
+### 🔹 Bakery Web Application 
 - Full-stack web app using React, Node.js, Express, MongoDB
 - REST API with CRUD operations
 - Frontend developed with JavaScript and React components
 - RESTful APIs tested and validated using Postman
 - GitHub used for version control
-- 🔗 Repo: https://github.com/faripanah/FMF-Bakery.git
+- 🔗 Repo: https://github.com/Fari-panah/FMF-Bakery-me.git
 
 ### 🔹Flower Shop Website (Frontend Project)
 - Static website built using HTML & CSS
