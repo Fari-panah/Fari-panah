@@ -118,7 +118,7 @@ Full Stack Open *(Self-study)*
 ## 📄 CV
 
 📥 **Download my CV (PDF):**  
-- [English CV](https://raw.githubusercontent.com/Fari-panah/Fari-panah/main/English-CV-Resume.pdf)  
+- [English CV](https://drive.google.com/file/d/1Kt0SOF787_vDXmqnsuYPAXyIRRIuzZVd/view?usp=sharing)  
 - [Finnish CV](https://drive.google.com/file/d/1opgdYikQrPFjAgWlAcluu4g5FFEYome5/view?usp=sharing)
 
 
