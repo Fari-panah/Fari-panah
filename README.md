@@ -1,7 +1,7 @@
 ## Hi there 👋
 # I am Farnaz Jamilpanah
 
-**Software Engineering Student | Junior Full-Stack Developer | Java **
+**Software Engineering Student**
 
 📍 Finland  
 📧 Email: panahfari81@gmail.com  
@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I am a motivated software development student with experience in Java, web development, and database systems.  
+I am a fourth-year software engineering student with experience in Java, web development, and database systems.  
 I enjoy learning new technologies, building practical projects, and improving my skills as a developer.
 
 Currently, I am looking for **internship / trainee opportunities** to gain real-world experience.
@@ -37,12 +37,6 @@ Currently, I am looking for **internship / trainee opportunities** to gain real-
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
 </p>
 
-### Desktop & Testing
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/JavaFX_text_logo.png" height="40" alt="JavaFX"/>
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="40" alt="JUnit"/>
-</p>
-
 ### Databases
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
@@ -63,6 +57,17 @@ Currently, I am looking for **internship / trainee opportunities** to gain real-
 
 ## 📂 Projects
 Selected academic and personal projects:
+### 🔹 FullStack-socialMedia-app (my practical project)
+- Frontend: React
+- Backend: Nodejs, Express, Rest CRUD
+- Backend, Frontend testing
+- Database: MongoDB
+- 🔗 Repo: https://github.com/Fari-panah/fullStack-socialMedia-app.git
+
+### 🔹PawTracker (Studen team project)
+- an Android application designed to help dog owners monitor and improve their dog’s daily physical activity.
+- 🔗 Repo: https://github.com/Fari-panah/PawTracker.git
+  
 ### 🔹 Study Planner Application (Student Team Project)
 - JavaFX desktop application developed using MVC architecture
 - Student study planning system for managing tasks and progress
@@ -80,7 +85,7 @@ Selected academic and personal projects:
 - Full-stack web app using React, Node.js, Express, MongoDB
 - REST API with CRUD operations
 - Frontend developed with JavaScript and React components
-- RESTful APIs tested and validated using Postman
+- Postman
 - GitHub used for version control
 - 🔗 Repo: https://github.com/Fari-panah/FMF-Bakery-me.git
 
@@ -90,6 +95,8 @@ Selected academic and personal projects:
 - Navigation bar and page sections (home, products, contact/about)
 - CSS used for layout, styling, typography, and color themes
 - 🔗 Repo: https://github.com/Fari-panah/flowerShop.git
+
+
 ---
 
 ## 🎓 Education
@@ -111,7 +118,9 @@ Finland
 Full Stack Open *(Self-study)*  
 - React, Node.js, Express, REST APIs
 - Studying in free time
-- 🔗 Repo: https://github.com/Fari-panah/modern-fullstack.git 
+- 🔗 Repo: https://github.com/Fari-panah/modern-fullstack.git
+- 🔗 Repo: https://github.com/Fari-panah/openFullStack-Zustand.git
+- 🔗 Repo: https://github.com/Fari-panah/openFullStack-part7.git
   
 ---
 
