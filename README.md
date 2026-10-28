@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-I am a fourth-year software engineering student with experience in Java, web development, and database systems.  
+I am a fourth-year software engineering student with academic experience in Java, web development, and database systems.  
 I enjoy learning new technologies, building practical projects, and improving my skills as a developer.
 
 Currently, I am looking for **internship / trainee opportunities** to gain real-world experience.
