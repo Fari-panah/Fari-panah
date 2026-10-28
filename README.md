@@ -127,8 +127,8 @@ Full Stack Open *(Self-study)*
 ## 📄 CV
 
 📥 **Download my CV (PDF):**  
-- [English CV](https://drive.google.com/file/d/1Kt0SOF787_vDXmqnsuYPAXyIRRIuzZVd/view?usp=sharing)  
-- [Finnish CV](https://drive.google.com/file/d/1opgdYikQrPFjAgWlAcluu4g5FFEYome5/view?usp=sharing)
+- [English CV](https://drive.google.com/file/d/1fM_pSwGTqhlXzDLPwPCzAUZsuhQm_k8L/view?usp=sharing)  
+- [Finnish CV](https://drive.google.com/file/d/1BdXX3Q0tQfvmNeP4Rh6CH9gMy8ssYuZw/view?usp=drive_link)
 
 
 ---
